@@ -11,7 +11,7 @@ class IPhoneObservableImpl : StockObservable {
     }
 
     override fun unSubscribeObserver(notificationObserver: NotificationObserver) {
-        observersList.add(notificationObserver)
+        observersList.remove(notificationObserver)
     }
 
     override fun notifyUser() {
