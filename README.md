@@ -1,4 +1,6 @@
 # Design-Patterns
-Design Patterns
-.idea
-out
+ # Behaviour
+  - Observer 
+  - Strategy
+# Creational
+  - Factory  
