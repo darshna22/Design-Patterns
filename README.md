@@ -1,6 +1,6 @@
 # Design-Patterns
- # Behaviour
+ ## Behaviour
   - Observer 
   - Strategy
-# Creational
+ ## Creational
   - Factory  
