@@ -4,7 +4,7 @@ import src.main.kotlin.creational.factory.send_notification.notification.Notific
 
 abstract class NotificationCreator {
     abstract fun createNotification():Notification
-    public fun sendNotification(msg:String){
+    fun sendNotification(msg:String){
         val notification=createNotification();
         notification.send(msg)
     }
