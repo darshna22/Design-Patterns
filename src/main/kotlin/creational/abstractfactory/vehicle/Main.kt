@@ -1,6 +1,4 @@
-package creational.abstractfactory
-
-import src.main.kotlin.creational.abstractfactory.CarFactoryProvider
+package src.main.kotlin.creational.abstractfactory.vehicle
 
 
 fun main(args: Array<String>) {

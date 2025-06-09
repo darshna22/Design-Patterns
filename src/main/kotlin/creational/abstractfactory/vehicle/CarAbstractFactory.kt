@@ -1,4 +1,4 @@
-package creational.abstractfactory
+package src.main.kotlin.creational.abstractfactory.vehicle
 
 import creational.factory.vehicle.Vehicle
 

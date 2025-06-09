@@ -1,6 +1,6 @@
 package creational.abstractfactory.ordinary
 
-import creational.abstractfactory.CarAbstractFactory
+import src.main.kotlin.creational.abstractfactory.vehicle.CarAbstractFactory
 import creational.factory.vehicle.Vehicle
 
 class OrdinaryCarFactory: CarAbstractFactory() {

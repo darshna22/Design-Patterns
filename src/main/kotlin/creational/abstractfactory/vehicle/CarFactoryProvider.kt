@@ -1,7 +1,5 @@
-package src.main.kotlin.creational.abstractfactory
+package src.main.kotlin.creational.abstractfactory.vehicle
 
-import creational.abstractfactory.CarAbstractFactory
-import creational.abstractfactory.VehicleType
 import creational.abstractfactory.luxury.LuxuryCarFactory
 import creational.abstractfactory.ordinary.OrdinaryCarFactory
 
