@@ -3,4 +3,4 @@
   - Observer 
   - Strategy
  ## Creational
-  - Factory  
+  - Factory   

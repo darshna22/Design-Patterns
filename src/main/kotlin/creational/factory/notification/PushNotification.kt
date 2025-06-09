@@ -1,6 +1,8 @@
-package creational.factory.notification
+package src.main.kotlin.creational.factory.notification
 
-class PushNotification:Notification {
+import creational.factory.notification.Notification
+
+class PushNotification: Notification {
     override fun notifyUser() {
         println("Sending push notification")
     }
